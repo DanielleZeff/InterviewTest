@@ -78,12 +78,16 @@ export const TextMonitors = styled.text`
 `;
 
 export const InputStudents = styled.div`
+  margin-left: 1rem;
+  margin-top: -2rem;
   @media (max-width: 700px) {
     margin-left: -5.5rem;
   }
 `;
 
 export const InputMonitors = styled.div`
+  margin-left: -0.1rem;
+  margin-top: 2rem;
   @media (max-width: 700px) {
     margin-left: -6rem;
   }
